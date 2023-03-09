@@ -1,6 +1,6 @@
 # Kirill Labut 
 
-<image width="5 rem" height="7 rem" src="avatar.jpg" alt="Avatar of user">
+<image width="100 rem" height="150 rem" src="avatar.jpg" alt="Avatar of user">
 
 ## Contacts:
 
